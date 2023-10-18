@@ -1,3 +1,4 @@
+// モジュールの読み込み
 const itemModule = require('./items')
 const controlModule = require('./control')
 
